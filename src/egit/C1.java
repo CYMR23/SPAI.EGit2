@@ -9,4 +9,5 @@ public class C1 {
 
 	void metodonuevo() {
 	}
+	
 }
